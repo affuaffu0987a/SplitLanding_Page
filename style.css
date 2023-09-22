@@ -14,14 +14,14 @@ html,body{
 .playsation{
     width: 50%;
     height: 100vh;
-    transition: width linear .4s;
+    transition: width linear .6s;
     position: relative;
     overflow: hidden;
 }
 .Xbox{
     width: 90%;
     height: 100vh;
-    transition: width linear 2s;
+    transition: width linear .6s;
     position: relative;
     overflow: hidden;
 }
