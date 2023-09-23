@@ -1,3 +1,6 @@
+
+//This is a split landing page for two products: Playstation 5 and Xbox Series X. 
+
 const PlayStaion = document.querySelector(".playsation")
 const XboxSeries = document.querySelector(".Xbox")
 const btn1 = document.querySelector("#btn")
