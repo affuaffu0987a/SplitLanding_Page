@@ -4,13 +4,13 @@ const btn1 = document.querySelector("#btn")
 const btn2 = document.querySelector("#btn2")
 
 PlayStaion.addEventListener("click",()=>{
-    PlayStaion.style.width = "90%"
-    XboxSeries.style.width = "50%"
+    PlayStaion.style.width = "70%"
+    XboxSeries.style.width = "30%"
 });
 
 XboxSeries.addEventListener("click",()=>{
-    XboxSeries.style.width = "90%"
-    PlayStaion.style.width = "50%"
+    XboxSeries.style.width = "70%"
+    PlayStaion.style.width = "30%"
 });
 
 btn1.addEventListener("click",()=>{

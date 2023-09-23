@@ -12,26 +12,24 @@ html,body{
 }
 
 .playsation{
-    width: 50%;
+    width: 70%;
     height: 100vh;
     transition: width linear .6s;
     position: relative;
-    overflow: hidden;
 }
 .Xbox{
-    width: 90%;
+    width: 30%;
     height: 100vh;
     transition: width linear .6s;
     position: relative;
-    overflow: hidden;
 }
 .Xbox img{
-    /* width: 100%; */
+    width: 100%;
     height: 100%;
 }
 
 .playsation img{
-    /* width: 100%; */
+    width: 100%;
     height: 100%;
    
 }
@@ -67,10 +65,6 @@ h1,button{
     background-color: transparent;
     padding: 4px 25px;
     transition: all linear .3s;
-}
-
-#btn:hover{
-    background-color: rgb(80, 39, 119);
 }
 
 #btn2{
